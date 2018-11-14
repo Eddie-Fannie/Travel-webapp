@@ -5,6 +5,8 @@ import App from './App'
 import router from './router'
 import fastClick from 'fastclick'
 import './common/sass/_mixin.scss'
+import 'styles/iconfont.css'
+import 'styles/border.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
